@@ -1,3 +1,10 @@
+# OCABS is now inside OScar
+
+All the features of OCABS, __except for enhanced CAMs__, are now integrated into the CA Basic Service module of OScar, our open implementation of the ETSI C-ITS stack.
+You can find more information on OScar [OpenWrt-V2X](https://github.com/DriveX-devs/OScar).
+
+Therefore, OCABS is no longer going to be maintained with the exclusion of the enhanced CAM features. The latter are going to be maintained as part of this repository, until they will be integrated into OScar.
+
 # OCABS - the Open CA Basic Service implementation
 
 This repository contains _OCABS_, a C++ open implementation of the CA Basic Service, to be used for deployement into real hardware, running, for instance, [OpenWrt-V2X](https://github.com/francescoraves483/OpenWrt-V2X).
